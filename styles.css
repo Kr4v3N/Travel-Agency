@@ -74,7 +74,9 @@ small
     font-size: 13px;
     font-style: italic;
 }
+
 /* HEADER */
+
 
 header 
 {
@@ -109,7 +111,9 @@ header nav ul li a
     margin-right: 20px;
 }
 
+
 /* MAIN-IMAGE*/
+
 
 #main-image 
 {
@@ -149,6 +153,7 @@ header nav ul li a
 
 
 /*STEPS*/
+
 
 #steps ul 
 {
@@ -195,7 +200,9 @@ header nav ul li a
 
 }
 
+
 /* POSSIBILITIES*/
+
 
 #possibilities
 {
@@ -252,7 +259,9 @@ article h4
     background-color: blue;
    
 }
+
 /* contact*/
+
 
 #contact
 {
@@ -304,7 +313,9 @@ input[type="text"]
   
 }
 
+
 /* FOOTER */
+
 
 footer
 {
